@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Chatgpt-api.iml" filepath="$PROJECT_DIR$/.idea/Chatgpt-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chatgpt-api-application/Chatgpt-api-application.iml" filepath="$PROJECT_DIR$/Chatgpt-api-application/Chatgpt-api-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chatgpt-api-domain/Chatgpt-api-domain.iml" filepath="$PROJECT_DIR$/Chatgpt-api-domain/Chatgpt-api-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chatgpt-api-infrastructure/Chatgpt-api-infrastructure.iml" filepath="$PROJECT_DIR$/Chatgpt-api-infrastructure/Chatgpt-api-infrastructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chatgpt-api-interfaces/Chatgpt-api-interfaces.iml" filepath="$PROJECT_DIR$/Chatgpt-api-interfaces/Chatgpt-api-interfaces.iml" />
+    </modules>
+  </component>
+</project>

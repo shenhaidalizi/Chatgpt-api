@@ -1,2 +1,7 @@
 server:
   port: 8090
+
+chatgpt:
+  groupId: 15552551144122
+  cookie: zsxq_access_token=48DDF5E9-B5BC-CC1A-7013-AA5B4B2D3EDF_1563861C0A38F392; zsxqsessionid=57a1e128ea6489e380d440aca8affbce; abtest_env=product; sensorsdata2015jssdkcross={"distinct_id":"212554421128521","first_id":"186e507fef7579-06a07b9c44d41ac-7452547c-1821369-186e507fef8691","props":{"$latest_traffic_source_type":"直接流量","$latest_search_keyword":"未取到值_直接打开","$latest_referrer":""},"identities":"eyIkaWRlbnRpdHlfY29va2llX2lkIjoiMTg2ZTUwN2ZlZjc1NzktMDZhMDdiOWM0NGQ0MWFjLTc0NTI1NDdjLTE4MjEzNjktMTg2ZTUwN2ZlZjg2OTEiLCIkaWRlbnRpdHlfbG9naW5faWQiOiIyMTI1NTQ0MjExMjg1MjEifQ==","history_login_id":{"name":"$identity_login_id","value":"212554421128521"},"$device_id":"186e507fef7579-06a07b9c44d41ac-7452547c-1821369-186e507fef8691"}
+  openAIKey: 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
